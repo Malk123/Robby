@@ -1,1 +1,2 @@
-gst-plugins-base-1.2.4/* linguist-vendored
+* linguist-vendored
+*.cpp linguist-vendored=false
